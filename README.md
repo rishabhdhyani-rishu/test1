@@ -1,5 +1,5 @@
 # README
-Complete Ruby on Rails developer
+The Complete Ruby on Rails developer.
 
 
 This README would normally document whatever steps are necessary to get the
